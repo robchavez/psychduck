@@ -1,0 +1,26 @@
+Package: psychduck
+Title: University of Oregon Pyschology custom R package
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Robert", "Chavez", email = "rchavez@uoregon.edu", role = c("aut", "cre")),
+  person("Cory", "Costello", email = "costell@uoregon.edu", role = c("aut")),
+  person("Stephanie", "Gluck", email = "sgluck@uoregon.edu", role = c("aut")),
+  person("Taylor", "Guthrie", email = "tguthrie@uoregon.edu", role = c("aut")),
+  person("Bradley", "Hughes", email = "bhughes7@uoregon.edu", role = c("aut")),
+  person("Sara", "Lieber", email = "slieber@uoregon.edu", role = c("aut")),
+  person("Ashley L.", "Miller", email = "amiller8@uoregon.edu", role = "aut"),
+  person("Cameron S.", "Kay", email = "ckay@uoregon.edu", role = "aut"),
+  person("Lea", "Frank", email = "lfrank@uoregon.edu", role = "ctb"),
+  person("Pooya", "Razavi", email = "pooya.razavi@gmail.com", role = c("aut")))
+Description: A collection of miscellaneous functions created by students and faculty in the Psychology Departent at University of Oregon.
+Depends: R (>= 3.5)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: lavaan, 
+         magrittr,
+         stringr,
+         psych,
+         pracma,
+         rmatio
+RoxygenNote: 6.0.1
