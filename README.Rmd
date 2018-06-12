@@ -1,0 +1,13 @@
+# psychduck
+
+This is a collections of miscellaneous functions created by students and faculty in the [Department of Psychology](https://psychology.uoregon.edu/) at [University of Oregon](https://www.uoregon.edu/). 
+
+Updates, clean-up, and additions are welcome by anyone wishing to contribute. 
+
+To install, you will need the "devtools" package installed before downloading from GitHub.
+```{r,warning=FALSE,message=FALSE}
+
+# Requires devtools package
+install.packages("devtools")
+devtools::install_github("robchavez/psychduck")
+```
