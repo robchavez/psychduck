@@ -4,7 +4,7 @@ This is a collections of miscellaneous functions created by students and faculty
 
 Updates, clean-up, and additions are welcome by anyone wishing to contribute. 
 
-To install, you will need the "devtools" package installed before downloading from GitHub.
+To install, you will need the "devtools" package installed before downloading from GitHub. **Requires R version 3.5 or higher.**
 ```{r,warning=FALSE,message=FALSE}
 
 # Requires devtools package
